@@ -121,3 +121,4 @@ g.sprites.append(platform8)
 g.sprites.append(platform9)
 g.sprites.append(platform10)
 g.mainloop()
+#проверка на апдейт
